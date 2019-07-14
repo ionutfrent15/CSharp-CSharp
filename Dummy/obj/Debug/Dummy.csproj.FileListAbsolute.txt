@@ -1,0 +1,2 @@
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Dummy\obj\Debug\Dummy.csprojAssemblyReference.cache
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Dummy\obj\Debug\Dummy.csproj.CoreCompileInputs.cache

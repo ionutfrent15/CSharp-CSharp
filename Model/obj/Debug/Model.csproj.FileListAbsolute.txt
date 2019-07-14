@@ -1,0 +1,7 @@
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\bin\Debug\Model.exe.config
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\bin\Debug\Model.exe
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\bin\Debug\Model.pdb
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\obj\Debug\Model.exe
+C:\Users\Ionut\Documents\Workspace\Facultate\MPP\LabRomoteCSharp\Lab2CSharpClient\ConcursInot\Model\obj\Debug\Model.pdb
